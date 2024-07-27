@@ -1,0 +1,8 @@
+'Hello, World!"
+
+I took this library from GitHub and customized it for myself by applying changes.
+You can also use it by copying this folder and pay attention to the TODO: comments.
+
+Source: https://github.com/serenader2014/flutter_carousel_slider/tree/master/lib
+
+USE AND ENJOY!
