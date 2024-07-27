@@ -1,7 +1,6 @@
 # blogclub
 
-A new Flutter project.
-
+Blog Club is a mini UI-oriented app with beautiful visual effects.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
